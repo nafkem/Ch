@@ -1,0 +1,79 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/nafkem/Documents/SaveERC20/SaveERC20/contracts/MyERC721.sol": {
+      "lastModificationDate": 1710158490628,
+      "contentHash": "cfc40d5c0c77880336e7868a835ceb29",
+      "sourceName": "contracts/MyERC721.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "IERC721Receiver",
+        "MyERC721"
+      ]
+    },
+    "/home/nafkem/dev/SaveERC20/SaveERC20/contracts/MyERC721.sol": {
+      "lastModificationDate": 1710882336594,
+      "contentHash": "cfc40d5c0c77880336e7868a835ceb29",
+      "sourceName": "contracts/MyERC721.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "IERC721Receiver",
+        "MyERC721"
+      ]
+    }
+  }
+}
